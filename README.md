@@ -183,7 +183,3 @@ I'm actively learning and building projects in:
 - Python Development
 
 I'm always interested in collaborating on innovative projects and expanding my technical expertise.
-
----
-
-## ⭐ If you found this repository useful, don't forget to Star it!
